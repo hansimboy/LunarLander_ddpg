@@ -52,7 +52,7 @@ python src/train.py
 Recoding Video
 
 ```bash
-python src/record_video.py\
+python src/record_video.py \
   --actor-model-path models/best_actor_path.pth
 ```
 ## Hyperparameters
